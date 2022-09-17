@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafat</h1>
 <h3 align="center">A Sr. UI & UX Designer / Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxrafat" alt="maxrafat" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/maxrafat" target="blank"><img src="https://img.shields.io/twitter/follow/maxrafat?logo=twitter&style=for-the-badge" alt="maxrafat" /></a> </p>
 
 - 🔭 I’m currently working on **React Website**
+
+- 🌱 I'm working with AppGyver mobile app **E-commerce Project**
+
+- 🌱 I'm working with AppGyver mobile app **Job Platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
