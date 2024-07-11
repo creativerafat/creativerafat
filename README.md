@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafat</h1>
 <h3 align="center">A Sr. UI & UX Designer / Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/maxrafat" target="blank"><img src="https://img.shields.io/twitter/follow/maxrafat?logo=twitter&style=for-the-badge" alt="maxrafat" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/maxrafat" target="blank"><img src="https://img.shields.io/twitter/follow/maxrafat?logo=twitter&style=for-the-badge" alt="maxrafat" /></a> </p>
 
 - 🔭 I’m currently working on **React Website**
 
